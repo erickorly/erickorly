@@ -1,6 +1,14 @@
 # 👋 Olá, eu sou o Erick Orly
 
-Sou estudante de desenvolvimento front-end, focado em criar projetos práticos e evoluir constantemente.
+Sou estudante de desenvolvimento front-end, focado em aprender na prática e criar projetos reais.
+
+## 🚀 Tecnologias
+- HTML5
+- CSS3
+- JavaScript
+
+## 🎯 Objetivo
+Desenvolver no mínimo 12 projetos até o fim do ano e, ao final desse período, criar uma aplicação de produtividade inspirada no Notion.
 
 📍 Brasil  
 📧 erickorlyoficial@gmail.com
